@@ -7,7 +7,7 @@
 -  Note some peculiarities of people with disabilities
 
 
-https://www.figma.com/file/P8hnfOdfSbqmWq7raqNDdj/Apeperia-(proyecto-inicial)?node-id=0%3A1
+https://www.figma.com/file/RGQ6A6rB8sS1J8Fb01fN7b/Apeperia-(M%C3%B3dulo-2)?node-id=0%3A1
 
 https://color.adobe.com/es/create/color-wheel
 
