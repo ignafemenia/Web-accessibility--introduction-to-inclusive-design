@@ -8,3 +8,7 @@
 
 
 https://www.figma.com/file/P8hnfOdfSbqmWq7raqNDdj/Apeperia-(proyecto-inicial)?node-id=0%3A1
+
+https://color.adobe.com/es/create/color-wheel
+
+http://www.appyautism.com/
