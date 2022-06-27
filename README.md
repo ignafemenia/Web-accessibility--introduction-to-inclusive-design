@@ -7,9 +7,11 @@
 -  Note some peculiarities of people with disabilities
 
 
-https://www.figma.com/file/8afv5KUHRldyXGcFxzHXiM/Apeperia-(M%C3%B3dulo-5)?node-id=0%3A1
+https://www.figma.com/file/DQviKnPWYOOxSlqLr1K2y5/Apeperia-(M%C3%B3dulo-6)?node-id=0%3A1
 
 https://color.adobe.com/es/create/color-wheel
+
+https://www.w3.org/WAI/fundamentals/accessibility-intro/es#what
 
 http://www.appyautism.com/
 
